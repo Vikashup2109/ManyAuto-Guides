@@ -1,216 +1,220 @@
-# Zapier Automation Software Guide
+Beginner's Guide to Using ManyChat in 2024
 
-Zapier is a powerful tool that connects your apps and automates workflows without requiring you to write any code. This comprehensive guide covers everything you need to know to set up, use, and optimize Zapier for your automation needs.
+Introduction
 
----
+In this guide, I will show you how to use ManyChat in 2024. I have personally used this tool to grow my clients' Instagram accounts and generate thousands of leads for them. By the end of this guide, you will understand what ManyChat is, why you should use it, the four main concepts of ManyChat, and how to create your first automation to generate leads on autopilot. One of my clients used a similar automation to generate over 2,000 leads from Instagram—and I’ll provide you with the exact template for free.
 
-## Table of Contents
+Let’s get started!
 
-1. [What is Zapier?](#what-is-zapier)
-2. [Key Concepts](#key-concepts)
-3. [Setting Up Your Zapier Account](#setting-up-your-zapier-account)
-4. [Navigating the Zapier Dashboard](#navigating-the-zapier-dashboard)
-5. [Creating Your First Zap](#creating-your-first-zap)
-6. [Managing Your Zaps](#managing-your-zaps)
-7. [Advanced Features](#advanced-features)
-8. [Integrations and App Connections](#integrations-and-app-connections)
-9. [Tips and Best Practices](#tips-and-best-practices)
-10. [Zapier Pricing Plans](#zapier-pricing-plans)
-11. [Troubleshooting and Support](#troubleshooting-and-support)
-12. [Real-World Use Cases](#real-world-use-cases)
+What is ManyChat?
 
----
+ManyChat is a chat automation platform that allows you to automate Instagram DMs. This means that whenever someone sends you a message on Instagram, replies to one of your stories, or comments on a post, ManyChat can automatically respond or start a conversation for you.
 
-## What is Zapier?
+Using ManyChat, you can:
 
-Zapier is an online automation tool that connects your favorite apps and services. It enables you to automate repetitive tasks, integrate apps that otherwise wouldn't work together, and improve productivity. With over 3,000 app integrations, Zapier is widely used for automating workflows in business, education, personal productivity, and more.
+Increase engagement on your Instagram account.
 
-### Why Use Zapier?
+Expand your reach.
 
-- **Saves Time**: Automates routine tasks.
-- **Boosts Productivity**: Focus on work that matters instead of repetitive admin tasks.
-- **No Coding Required**: Accessible for non-technical users.
-- **Customizable Workflows**: Build processes that fit your unique needs.
+Generate leads 24/7 on autopilot.
 
----
+The best part? Around 90% of Instagram accounts are not yet using this tool, giving you a significant competitive advantage.
 
-## Key Concepts
+Getting Started
 
-### Zap
-A Zap is an automated workflow that connects two or more apps. Zaps consist of Triggers and Actions.
+Sign Up for ManyChat
 
-### Trigger
-A Trigger is an event in one app that starts the Zap. For example, "New Email in Gmail" could be a trigger.
+Visit ManyChat’s website.
 
-### Action
-An Action is the task that happens as a result of the trigger. For instance, "Save Attachment in Google Drive".
+Click “Get Started” and select Instagram as your platform.
 
-### Task
-Each step in a Zap is called a task. For example, saving a file or sending an email counts as one task.
+Follow the steps to connect your Instagram account to ManyChat. Ensure you have admin access to your business account.
 
-### Multi-Step Zaps
-These are Zaps that include more than one Action. For example, after saving an email attachment to Google Drive, you can notify your team via Slack.
+Explore the Dashboard
 
----
+Once connected, log in to ManyChat. Your dashboard includes:
 
-## Setting Up Your Zapier Account
+Contacts: Manage and track users interacting with your account.
 
-1. **Visit Zapier**: Go to [Zapier's website](https://zapier.com).
-2. **Sign Up**: Create an account using your email, Google, or Microsoft credentials.
-3. **Verify Your Email**: Confirm your email to activate the account.
-4. **Log In**: Access your dashboard and explore the features.
+Automation: Design workflows and automate messages.
 
----
+Live Chat: Manually manage conversations when needed.
 
-## Navigating the Zapier Dashboard
+Broadcasting: Send messages to specific audience segments.
 
-The Zapier Dashboard is your control center for managing Zaps, apps, and workflows. Here are its key components:
+Settings: Customize your chatbot and manage integrations.
 
-1. **Dashboard**: Overview of your active Zaps, tasks, and usage.
-2. **Zaps**: A list of all your created Zaps.
-3. **Task History**: Details of tasks that have run, including successes and errors.
-4. **Explore**: Browse app integrations and templates.
-5. **Settings**: Manage account preferences, billing, and connected apps.
+Four Main Concepts of ManyChat
 
----
+1. Contacts
 
-## Creating Your First Zap
+Contacts in ManyChat represent all the people interacting with your Instagram account. For example, anyone who sends a message, replies to a story, or comments on a post becomes a contact.
 
-### Step-by-Step Guide
+You can filter contacts based on criteria like “emails collected” or “specific interactions.”
 
-1. **Start a New Zap**:
-   - Click the **Create Zap** button on the dashboard.
+View individual profiles to see custom fields, conversation history, and user input.
 
-2. **Set the Trigger**:
-   - Select the app where the trigger event will occur. For example, choose Gmail.
-   - Select the trigger event, such as "New Email."
-   - Connect your app account by logging in and authorizing access.
-   - Test the trigger to ensure it works as expected.
+To see contacts, go to the Contacts tab in the dashboard. You can:
 
-3. **Set the Action**:
-   - Choose the app for the action. For example, select Google Drive.
-   - Select the action event, such as "Upload File."
-   - Configure the action's settings, like specifying the folder where the file will be saved.
-   - Test the action to verify everything is working.
+Filter by criteria such as users who have shared their email addresses.
 
-4. **Name and Activate Your Zap**:
-   - Give your Zap a meaningful name (e.g., "Save Gmail Attachments to Drive").
-   - Turn on your Zap to start automation.
+Look up specific contacts by name and view detailed interaction history.
 
----
+2. Fields
 
-## Managing Your Zaps
+Fields store user data collected during interactions. ManyChat has two types of fields:
 
-### Viewing and Editing Zaps
-- Access all your Zaps from the **Zaps** tab.
-- Click on a Zap to view its details or make changes.
+System Fields: Built-in fields like first name, last name, and email.
 
-### Turning Zaps On or Off
-- Use the toggle switch next to each Zap to activate or deactivate it.
+Custom Fields: Fields you create to store specific data (e.g., interests or preferences).
 
-### Deleting Zaps
-- Open the Zap you wish to delete.
-- Click on the three-dot menu and select **Delete**.
+For example, you can create a custom field to store user responses to questions like "What’s your favorite product?" and integrate this data with a CRM or email marketing platform.
 
-### Monitoring Task Usage
-- View task usage from the **Dashboard** or the **Usage** section to ensure you’re within your plan limits.
+To manage fields, go to the Settings > Fields section, where you can:
 
----
+View and edit existing fields.
 
-## Advanced Features
+Create new fields to store specific data.
 
-### Filters
-Add conditions to your Zaps to ensure they only run when specific criteria are met. For example, you can filter emails by subject or sender.
+3. Automation
 
-### Paths
-Set up branching logic to handle multiple outcomes based on trigger data. For instance, send different responses based on the type of customer inquiry.
+Automation is the heart of ManyChat. It’s where workflows are created and managed to:
 
-### Webhooks
-Use Webhooks to integrate with custom apps or APIs that aren’t natively supported by Zapier.
+Automatically respond to comments, DMs, and story interactions.
 
-### Multi-Step Zaps
-Combine multiple actions in a single Zap. For example:
-1. Trigger: New Lead in CRM.
-2. Action 1: Add Lead to Email List.
-3. Action 2: Notify Sales Team via Slack.
+Guide users through multi-step conversations.
 
----
+You’ll spend most of your time in the Automation tab, which allows you to:
 
-## Integrations and App Connections
+Build workflows from scratch or use templates.
 
-Zapier supports over 3,000 apps, including:
+Organize automations into folders for easy management.
 
-- **Email**: Gmail, Outlook
-- **Storage**: Google Drive, Dropbox
-- **CRM**: Salesforce, HubSpot
-- **Messaging**: Slack, Microsoft Teams
-- **Project Management**: Trello, Asana
+For example, create an automation that responds to a comment with a direct message offering a free guide.
 
-### Connecting an App
-1. Navigate to the **Apps** section.
-2. Search for the app you want to connect.
-3. Click **Connect** and log in to authorize Zapier.
+4. Live Chat
 
----
+Live Chat allows you to:
 
-## Tips and Best Practices
+Handle conversations not addressed by automation.
 
-1. **Start Simple**: Begin with single-step Zaps before exploring advanced features.
-2. **Use Descriptive Names**: Clearly name your Zaps for easy identification.
-3. **Test Regularly**: Periodically test your Zaps to ensure they’re running smoothly.
-4. **Monitor Task Usage**: Keep an eye on task limits to avoid overages.
-5. **Leverage Templates**: Use pre-built templates to save time.
+Pause automations for manual replies.
 
----
+Assign conversations to team members.
 
-## Zapier Pricing Plans
+Use the Live Chat tab to:
 
-Zapier offers several plans to suit different needs:
+Monitor and manage ongoing interactions.
 
-1. **Free Plan**:
-   - 5 Zaps
-   - 100 Tasks/month
-   - Single-step Zaps only
+Take over conversations that require a human touch.
 
-2. **Starter Plan**:
-   - $19.99/month
-   - 20 Zaps
-   - Multi-step Zaps
-   - 750 Tasks/month
+Setting Up Your ManyChat Account
 
-3. **Professional Plan**:
-   - $49/month
-   - Unlimited Zaps
-   - 2,000 Tasks/month
-   - Premium app integrations
+Adjust Live Chat Behavior
 
-4. **Team and Company Plans**:
-   - Custom pricing for advanced needs.
+Go to Settings > Live Chat Behavior:
 
----
+Default Setting: Any message starts a conversation. This can overwhelm your team.
 
-## Troubleshooting and Support
+Recommended Setting: Set conversations to open explicitly. This lets you control when to manually intervene.
 
-1. **Check Task History**:
-   - View detailed logs of task runs under the "Task History" tab.
+Enable automation pauses for 24 hours after a manual reply to avoid interference.
 
-2. **Reauthorize Apps**:
-   - Reconnect apps if authentication issues occur.
+Set a Default Reply
 
-3. **Contact Support**:
-   - Access the [Help Center](https://zapier.com/help) for guides and FAQs.
-   - Reach out to the support team via email for further assistance.
+Navigate to Instagram > Default Reply:
 
----
+Create a fallback automation for untriggered queries.
 
-## Real-World Use Cases
+Mark the conversation as open.
 
-### Business Automation
-- **Lead Management**: Automatically add new leads to your CRM and notify your sales team.
-- **Invoicing**: Create invoices in accounting software when an order is placed.
+Assign it to a team member.
 
-### Personal Productivity
-- **Task Management**: Add new emails as tasks in your to-do list app.
-- **File Organization**: Automatically save and organize files in cloud storage.
+Notify your team of new queries.
 
-By leveraging the features outlined in this guide, you can maximize the efficiency of your workflows with Zapier.
+Creating Your First Automation: Lead Generation Funnel
+
+Let’s build a simple lead generation funnel that collects names and emails in exchange for a free guide or ebook.
+
+Create a New Automation
+
+Go to Automation > New Automation.
+
+Choose “Start from Scratch.”
+
+Add Triggers
+
+Trigger 1: Respond to comments containing specific words like “guide.”
+
+Add public replies to boost engagement (e.g., “Check your DMs for the guide!”).
+
+Trigger 2: Respond to DMs with specific keywords like “guide.”
+
+Build the Flow
+
+First Message:
+
+Send: “Are you ready to get the guide? Click below.”
+
+Add a button labeled “Yes, send it!”
+
+Collect Name:
+
+Use a User Input field: “What’s your first name?”
+
+Set reply type to “First Name” and disable the skip option.
+
+Collect Email:
+
+Use another User Input field: “What’s your email address?”
+
+Set reply type to “Email.” ManyChat validates email formats automatically.
+
+Deliver Lead Magnet:
+
+Send a final message: “Here’s your free guide. Click below to access it.”
+
+Add a button linking to the guide.
+
+Test Your Automation
+
+Test the flow by commenting or messaging your Instagram account with trigger words.
+
+Ensure responses and lead collection work as expected.
+
+Advanced Features
+
+Integrations
+
+ManyChat integrates with tools like:
+
+Email Marketing Platforms: MailChimp, ActiveCampaign, ConvertKit.
+
+CRM Tools: HubSpot, Salesforce.
+
+Google Sheets: Export collected data automatically.
+
+For example, when a user provides their email, you can:
+
+Add an action to send the data to MailChimp.
+
+Automatically add the contact to a specific email list.
+
+Analytics
+
+Track performance metrics:
+
+Open Rates.
+
+Click-Through Rates.
+
+Engagement Metrics.
+
+Use these insights to optimize workflows and improve user experience.
+
+Conclusion
+
+Now you know how to set up and use ManyChat in 2024 to automate Instagram DMs, generate leads, and engage with your audience. The lead generation funnel we built is just one example of ManyChat’s capabilities. Explore additional features and advanced workflows to maximize your results.
+
+If you found this guide helpful, check out my YouTube channel for more tutorials. Happy automating!
+
