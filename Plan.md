@@ -1,5 +1,5 @@
 
-## ** Detailed & Easy-to-Understand Business Plan: Automation Software Platform**
+## **Detailed & Easy-to-Understand Business Plan: Automation Software Platform**
 
 ### **1. What's the Big Idea? (Business Overview)**
 
